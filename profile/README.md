@@ -6,4 +6,4 @@
 
 Follow [@otim_xyz](https://x.com/otim_xyz) on X/Twitter
 
-Check out our [docs](https:/docs.otim.xyz)
+Check out our [docs](https://docs.otim.xyz)
