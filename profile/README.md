@@ -1,4 +1,4 @@
-![otim shipit squirrel](https://raw.githubusercontent.com/otim-xyz/.github/main/profile/shipit-sneaking-otim-green.png)
+![otim shipit squirrel](https://raw.githubusercontent.com/otimlabs/.github/main/profile/shipit-sneaking-otim-green.png)
 
 # Otim
 
