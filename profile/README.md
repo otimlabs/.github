@@ -2,8 +2,10 @@
 
 # Otim
 
-### Building infrastructure for new, transformative mechanisms on-chain
+### It's about time EOAs learn some new tricks
 
-Follow [@otim_xyz](https://x.com/otim_xyz) on X/Twitter
+Follow [@otimlabs](https://x.com/otimlabs) on X
 
-Check out our [docs](https://docs.otim.xyz)
+Join our [Telegram community](https://t.me/otimlabs)
+
+Check out our [docs](https://docs.otim.com)
