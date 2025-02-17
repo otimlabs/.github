@@ -2,7 +2,7 @@
 
 # Otim
 
-### It's about time that EOAs learn some new tricks
+### It's about time that EOAs learn some cool new tricks
 
 Follow [@otimlabs](https://x.com/otimlabs) on X
 
